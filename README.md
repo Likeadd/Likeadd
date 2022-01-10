@@ -12,7 +12,7 @@ I am currently studying for a Bachelor's degree in Renewable Energy. Passionate 
 ![java] ![arduino] ![c] ![php]
 
 ## Frameworks
-![nodejs] ![npm] ![raspberrypi] ![tailwindcss] ![jquery]
+![nodejs] ![raspberrypi] ![jquery]
 
 ### IDE
 ![vscode] ![sublimetext]
