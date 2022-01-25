@@ -9,7 +9,7 @@ I am currently studying for a Bachelor's degree in Renewable Energy. Passionate 
 ![html5] ![css3] ![javascript]
 
 ### Languages Back-End
-![java] ![arduino] ![c] ![php]
+![javascript] ![arduino] ![c]
 
 ## Frameworks
 ![nodejs] ![raspberrypi] ![jquery]
